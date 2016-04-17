@@ -1,4 +1,3 @@
 # Proyecto2
-Esta es la prueba del primero proyecto en conjunto con As!
-Esto ya es una modificacion
-y no se que hacer para que...
+Este proyeto es el primer proyecto dificil.
+De mi carrera.
